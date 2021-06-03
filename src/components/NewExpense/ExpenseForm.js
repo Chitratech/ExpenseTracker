@@ -36,7 +36,7 @@ const submitHandler=(event)=>{
     console.log(expenseData);
     setEnteredTitle('');
     setEnteredAmount('');
-    setEnteredDate('');
+    setEnteredDate('h');
 
 };
 
