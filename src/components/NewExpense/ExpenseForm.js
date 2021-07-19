@@ -28,11 +28,12 @@ event.preventDefault();  // prevent the default behaviour of submit button
 
 
 // storing it in expedata object
-const expenseData={
-title:enteredTitle,
-amount:enteredAmount,
-date: new Date(enteredDate)
+const expenseData = {
+  title: enteredTitle,
+  amount: +enteredAmount,
+  date: new Date(enteredDate),
 };
+
 
 props.onSaveExpenseData(expenseData);
 //clear the input after the submit

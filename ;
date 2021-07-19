@@ -1,0 +1,28 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'Expense-Tracker/master'.
+#
+# Changes to be committed:
+#	modified:   public/favicon.ico
+#	modified:   public/index.html
+#	deleted:    public/logo192.png
+#	deleted:    public/logo512.png
+#	modified:   src/App.js
+#	modified:   src/components/Expenses/ExpenseDate.js
+#	modified:   src/components/Expenses/ExpenseItem.css
+#	modified:   src/components/Expenses/ExpenseItem.js
+#	modified:   src/components/Expenses/Expenses.css
+#	modified:   src/components/Expenses/Expenses.js
+#	modified:   src/components/Expenses/ExpensesFilter.js
+#	modified:   src/components/NewExpense/ExpenseForm.js
+#	modified:   src/components/NewExpense/NewExpense.js
+#	modified:   src/components/UI/Card.css
+#	modified:   src/components/UI/Card.js
+#
+# Untracked files:
+#	src/components/Expenses/ExpensesList.css
+#	src/components/Expenses/ExpensesList.js
+#
